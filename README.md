@@ -39,6 +39,11 @@ To connect to my EC2 instance, you set the keypair file read/write permission us
 <img width="817" height="265" alt="Screenshot 2026-01-14 at 05 35 57" src="https://github.com/user-attachments/assets/d2c9169a-417b-4975-9268-ecd048120057" />
 
 ## Connect VS Code with your EC2 Instance
+- install the remote - ssh extension on VS code as shown in the image below.
+  <img width="1440" height="634" alt="Screenshot 2026-01-14 at 06 01 35" src="https://github.com/user-attachments/assets/f9829ec8-5390-468e-adfc-25b1b190fe3c" />
+
+## Install Git
+
 
 
 
