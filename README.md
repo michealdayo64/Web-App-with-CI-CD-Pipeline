@@ -43,6 +43,10 @@ To connect to my EC2 instance, you set the keypair file read/write permission us
   <img width="1440" height="634" alt="Screenshot 2026-01-14 at 06 01 35" src="https://github.com/user-attachments/assets/f9829ec8-5390-468e-adfc-25b1b190fe3c" />
 
 ## Install Git
+By using the command below, you install git inside your server succcess fully.
+- sudo dnf update -y
+- sudo dnf install git -y
+  <img width="561" height="312" alt="Screenshot 2026-02-19 at 19 36 06" src="https://github.com/user-attachments/assets/2b36578c-19de-44f8-8f0f-604e195b6aa5" />
 
 
 
