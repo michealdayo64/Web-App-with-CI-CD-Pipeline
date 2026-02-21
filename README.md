@@ -111,6 +111,13 @@ The goal of creating an IAM role in this project is to give permission to our EC
 
 ## Set Up your Pipeline
 - We'll start by setting up the basic pipeline structure and configuring its settings.
-  
+  ### Choose pipeline settings and Add source stage
+<img width="1437" height="754" alt="Screenshot 2026-02-21 at 09 55 54" src="https://github.com/user-attachments/assets/dc2b16f1-b236-413d-9930-2fa0c675a885" />
+
+### Add build stage Add deploy stage
+<img width="1440" height="810" alt="Screenshot 2026-02-21 at 09 56 30" src="https://github.com/user-attachments/assets/2022c0f0-d6ac-4388-865a-037e3213acd2" />
+
+### The Pipeline Output from soure provider, CodeBuild to CodeDeploy
+<img width="1434" height="729" alt="Screenshot 2026-02-21 at 10 07 08" src="https://github.com/user-attachments/assets/39ca1158-e064-48cd-a2d3-7fc047fd7b55" />
 
 
