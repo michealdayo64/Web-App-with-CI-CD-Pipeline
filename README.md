@@ -120,4 +120,17 @@ The goal of creating an IAM role in this project is to give permission to our EC
 ### The Pipeline Output from soure provider, CodeBuild to CodeDeploy
 <img width="1434" height="729" alt="Screenshot 2026-02-21 at 10 07 08" src="https://github.com/user-attachments/assets/39ca1158-e064-48cd-a2d3-7fc047fd7b55" />
 
+### View the Website
+- After making chabges in my vs code and push to github. CodePipeline automate the process from source provide, to building the code using CodeBuild and deploying it using CodeDeploy all fully automated.
+  
+<img width="1440" height="900" alt="Screenshot 2026-02-21 at 10 39 13" src="https://github.com/user-attachments/assets/77fd8cc8-54d9-4a12-b79c-740196e57504" />
+
+<img width="1128" height="726" alt="Screenshot 2026-02-21 at 10 41 37" src="https://github.com/user-attachments/assets/e77a43a7-035d-4ea7-ac5f-2f4551b7c624" />
+
+
+- The output below is from the edit chnages of the index.jsp file.
+  
+<img width="1059" height="401" alt="Screenshot 2026-02-21 at 10 42 48" src="https://github.com/user-attachments/assets/5a823a1b-fd36-4132-b51f-d78fa069920f" />
+
+
 
